@@ -4,7 +4,7 @@ Predicting Covid and foreign exchange rate platform to do comparison analysis un
 The ipynb file shows the comparison algorithms
 
 Application running command:
-$ cd ...
+
 $ streamlit run main.py
 
 
