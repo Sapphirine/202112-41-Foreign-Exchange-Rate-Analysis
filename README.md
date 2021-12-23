@@ -11,3 +11,6 @@ $ streamlit run main.py
 In the browser, see
 localhost:8051
 
+
+GCP deployed link:
+https://predictfrontend.ue.r.appspot.com/
